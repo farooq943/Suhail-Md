@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> 𝗙𝗔𝗥𝗢𝗢𝗤-𝗦𝗜𝗡𝗗𝗛𝗜 </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://chat.whatsapp.com/LnHJcpfnyh8B27QPKPW6tJ">
     <img alt="Farooq docs" height="300" src="https://telegra.ph/file/511e7697c22e769c38915.jpg">
   </a>
 </p>
@@ -23,18 +23,18 @@
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
   <a aria-label="Suhail_Md is free to use" href="https://chat.whatsapp.com/LnHJcpfnyh8B27QPKPW6tJ" target="_blank">
-    <img alt="FarooqTechInfo Yt" src="https://chat.whatsapp.com/LnHJcpfnyh8B27QPKPW6tJ" target="_blank" />
+    <img alt="𝗙𝗔𝗥𝗢𝗢𝗤_𝗦𝗜𝗡𝗗𝗛𝗜" src="https://chat.whatsapp.com/LnHJcpfnyh8B27QPKPW6tJ" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="𝗙𝗔𝗥𝗢𝗢𝗤_𝗦𝗜𝗡𝗗𝗛𝗜 :: Visitor's Count" /></p>
 
 ---
 
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> 𝗙𝗔𝗥𝗢𝗢𝗤 𝗦𝗜𝗡𝗗𝗛𝗜 whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
